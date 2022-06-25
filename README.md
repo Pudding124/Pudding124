@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Pudding124&count_private=true&theme=tokyonight" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pudding124&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="190px" src="https://imgur.com/uQHMDp9.gif" />
+</p>
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Pudding124&count_private=true&theme=tokyonight" /><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pudding124&layout=compact&theme=tokyonight" />
+ </p>
 
 <!--
 **Pudding124/Pudding124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
